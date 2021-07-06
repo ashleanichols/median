@@ -1,0 +1,15 @@
+{
+  "name": "median",
+  "version": "1.0.0",
+  "description": "",
+  "main": "median.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Simeon",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.4.0"
+  }
+}
